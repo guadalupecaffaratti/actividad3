@@ -1,0 +1,63 @@
+```css
+/* Estilo general del body */
+body {
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+/* Contenedor principal (div pedido en la consigna) */
+.contenedor {
+    width: 80%;
+    margin: 20px auto;
+    padding: 15px;
+
+    background-color: #eeeeee;
+
+    border: 1px solid #b9d8ff;
+    border-radius: 10px;
+}
+
+/* Estilo del H1 */
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 36px;
+
+    text-align: center;
+}
+
+/* H2 con color definido */
+h2 {
+    color: #d46b08;
+
+    text-align: center;
+}
+
+/* Estilo de párrafos con Google Font */
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+
+    line-height: 1.6;
+}
+
+/* Imagen adaptable */
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* Estilos para enlaces */
+a {
+    color: #0056b3;
+    text-decoration: none;
+
+    font-weight: bold;
+}
+
+/* Hover del enlace */
+a:hover {
+    color: #ff6600;
+    text-decoration: underline;
+}
+```
